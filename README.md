@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am a boy from Class 3,Grade 9 in Chengshi Middle School in Chengde,Hebei.
+My English is **very poor 😂** and I am **very lazy 😜**
+I learned a little about Python,HTML and Fish shell.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuangzhuang20080802&show_icons=true">
 
 <!--
 **zhuangzhuang20080802/zhuangzhuang20080802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
