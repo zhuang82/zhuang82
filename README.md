@@ -12,6 +12,8 @@ Contact information(in China):
 3. Wechat:xufengyuan20080802XU
 4. Email: main:xufengyuan20080802@outlook.com spare:xufengyuan20080802@qq.com
 5. Flybook: email:xufengyuan20080802@outlook.com
+6. Solus Forum:xufengyuan20080802
+7. ~~Cutefish Forum:zhuang~~(Hope to meet in the future)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhuangzhuang20080802&show_icons=true">
 
