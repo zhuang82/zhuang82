@@ -1,9 +1,17 @@
 ### Hi there 👋
-I am a boy from Class 3,Grade 9 in Chengshi Middle School in Chengde,Hebei.
+I am a boy from Class 3,Grade 9 in Chengshi Middle School in Chengde,Hebei,China.
 
 My English is **very poor 😂** and I am **very lazy 😜**
 
 I learned a little about Python,HTML and Fish shell.
+
+Contact information(in China):
+
+1. ~~Gitee:@xu-fengyuan20080802~~(Not very useful）
+2. QQ:1138697799
+3. Wechat:xufengyuan20080802XU
+4. Email: main:xufengyuan20080802@outlook.com spare:xufengyuan20080802@qq.com
+5. Flybook: email:xufengyuan20080802@outlook.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhuangzhuang20080802&show_icons=true">
 
