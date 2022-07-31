@@ -14,7 +14,8 @@ Contact information:
 5. Flybook: email:xufengyuan20080802@outlook.com
 6. Solus Forum:xufengyuan20080802
 7. ~~Cutefish Forum:zhuang~~(Hope to meet again in the future)
-8. Twitter:@zhuangzhuang82
+8. ~~ubuntu-mate.community:zhuang~~(Not very useful)
+9. Twitter:@zhuangzhuang82
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhuangzhuang20080802&show_icons=true">
 
