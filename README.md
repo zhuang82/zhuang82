@@ -5,19 +5,14 @@ My English is **very poor 😂** and I am **very lazy 😜**
 
 I learned a little about Python,HTML and Fish shell.
 
-Contact information:
-
-1. ~~Gitee:@xu-fengyuan20080802~~(Not very useful）
-2. QQ:1138697799
-3. Wechat:xufengyuan20080802XU
-4. Email: main:xufengyuan20080802@outlook.com spare:xufengyuan20080802@qq.com
-5. Flybook: email:xufengyuan20080802@outlook.com
-6. Solus Forum:xufengyuan20080802
-7. ~~Cutefish Forum:zhuang~~(Hope to meet again in the future)
-8. ~~ubuntu-mate.community:zhuang~~(Not very useful)
-9. Twitter:@zhuangzhuang82
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhuangzhuang20080802&show_icons=true">
+
+Community I have joined:
+
+1. Gitee:@xu-fengyuan20080802
+2. Solus Forum:xufengyuan20080802
+3. Cutefish Forum:zhuang
+4. ubuntu-mate.community:zhuang
 
 <!--
 **zhuangzhuang20080802/zhuangzhuang20080802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
