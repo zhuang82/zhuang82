@@ -1,9 +1,11 @@
 ### Hi there 👋
-I am a boy from Class 3,Grade 9 in Chengshi Middle School in Chengde,Hebei,China.
+I am a boy in Grade 9 in China.
 
 My English is **very poor 😂** and I am **very lazy 😜**
 
 I learned a little about Python,HTML and Fish shell.
+
+Email:xufengyuan20080802@outlook.com
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuangzhuang20080802&show_icons=true">
 
