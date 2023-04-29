@@ -7,7 +7,7 @@ I learned a little about Python,HTML and Fish shell.
 
 Email:xufengyuan20080802@outlook.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuangzhuang20080802&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhuang82&show_icons=true">
 
 Community I have joined:
 
